@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Giri-GD
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technical Product Manager
+- 🌱 I’m currently learning Tech stack for PM
 
 <!---
 Giri-GD/Giri-GD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
